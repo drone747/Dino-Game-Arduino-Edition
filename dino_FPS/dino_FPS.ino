@@ -1,4 +1,4 @@
-#define TFT_CS     10
+#define TFT_CS     10 f**k
 #define TFT_RST    9
 #define TFT_DC     8
 #include <Adafruit_GFX.h>    // Core graphics library
